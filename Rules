@@ -1,0 +1,2 @@
+npm init  // To start the project
+npm install // To install the dependencies, similar to gem install, Ex: npm install express --save
